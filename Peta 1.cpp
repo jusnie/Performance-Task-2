@@ -1,6 +1,8 @@
-#include <iostream> // Juanie & Lance
+#include <iostream> 
 #include <iomanip>
 #include <string>
+
+// Juanie & Lance
 
 using namespace std;
 
